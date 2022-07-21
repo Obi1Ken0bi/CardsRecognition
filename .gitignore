@@ -37,5 +37,6 @@ build/
 ### Mac OS ###
 .DS_Store
 /src/main/resources/train_set/
-/symbols/
+/src/main/resources/symbols/
 /ready_model.json
+/src/test/resources/examples/

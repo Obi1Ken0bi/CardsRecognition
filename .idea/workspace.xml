@@ -4,378 +4,377 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35b5b9e2-b769-4a5a-8e3d-9ebb0e6e4291" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CardScanner/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/zelentsov/CardScanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/zelentsov/CardsApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/ready_model.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/10c3s2d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/10c3s9s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/10c6h5s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/10c8sQd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/10cAs5d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/10cJs9c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/10cKhKd7h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/10cKsQh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/10cQc7s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/10cQs2d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/10cQsKd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/10d2cKs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/10d5cJs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/10d5d4d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/10dAh10h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/10dJc8h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/10dJh7c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/10h10s7d5h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/10h2s5h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/10h4s4c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/10h6cQs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/10hKc3c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/10s2sJc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/10s6h10c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/10s6h8d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/10s6s3d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/10s7c7h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/10s7dKh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/10sAc10d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/10sAh7c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/10sQh6c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/2c10h3d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/2c3dAh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/2c7h3c10c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/2c9s9d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/2cKdJs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/2cQc5s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/2d2c6h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/2d2s4h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/2d3d10c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/2d8d4s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/2d8s6d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/2dKc8h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/2dKdJc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/2h10c8d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/2h3h4s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/2h4c3s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/2h8c7s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/2h8d9h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/2hAs4d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/2hQsKh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/2s3dAh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/2s6dKd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/2s8c9d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/2s9sQs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/2sAsKc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/2sKs2c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/2sQs10h10c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/3c6c8c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/3c6sKd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/3c7c2d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/3c7c6h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/3c7d5h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/3c7d9d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/3cJc9dAh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/3cJcKh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/3d10s9h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/3d4h5s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/3d4sKd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/3d7s2c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/3d9s2d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/3h10dJd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/3h5d10s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/3h5dKs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/3h6hAh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/3h7h3c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/3h8cAh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/3h9h5d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/3h9hKs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/3hQs4s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/3s3cJs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/3s4sJs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/3s7sKc8d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/3s8s3c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/3sQc3d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/4c2d7s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/4c2h7c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/4c3d6h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/4c5s10d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/4c9dJs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/4cAc10c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/4cJs6c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/4cJs8c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/4d5s4s9s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/4d6d5s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/4dJh10d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/4h7sAc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/4h9h6h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/4hAh3s7h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/4hAs2d2s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/4hJhQc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/4hKc3d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/4hKh4dAs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/4hKhAh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/4hQd7s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/4s2h2d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/4s4h7hKc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/4s7c9c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/4s7h3s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/4s9c7s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/4sJdKdKc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/5c2s2c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/5c4d3dQh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/5c7c5s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/5c8d4s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/5cJc9d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/5cKh2h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/5cQs2c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/5cQs6h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/5d2dAc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/5d2hQh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/5d4c3h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/5d4s7s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/5d5h3s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/5d7sKh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/5d9c7c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/5dKhAs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/5h2sJc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/5h3h6c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/5h4s7s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/5h5d7s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/5hQd8h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/5hQh7h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/5hQs8h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/5s10cQc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/5s2sKc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/5s4hJc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/5s6sQd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/5s7c2s10h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/5s8d7s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/5s8d9h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/5s9c4h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/5sJdQc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/5sKcKs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/5sQs8h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/6c7h9h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/6c9c5c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/6c9cAh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/6cAcJs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/6cAd4c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/6cAs5d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/6cKc2c8s8h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/6cQs10c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/6d10sJc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/6d2d10h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/6dJs4s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/6dKdAs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/6h10hAs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/6h4h9sQc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/6h6sQh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/6h8s10d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/6s3d10c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/6s5h10h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/6s5hQh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/6s5s2h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/6sJsKh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/7c10sQh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/7c5s2c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/7c6s3h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/7c8d6s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/7c9c8s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/7c9h7d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/7cAd2s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/7cJs9d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/7cKh8s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/7cKs6h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/7d5s4h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/7d6d8d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/7d7c7h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/7d7sKh7h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/7dAd3c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/7dJc6sAh5s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/7dQd9h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/7dQh2c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/7dQh5s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/7h10s6s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/7h3d5h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/7h4cAd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/7h4cQd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/7h6sJd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/7h8s10h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/7hAs5h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/7hQs5s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/7s10d6s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/7s6hKs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/7s7h4s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/7s8c6c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/7sJh7c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/7sJs2h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/7sQs9s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/8c6sKh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/8c9d3h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/8c9s6s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/8cAdJd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/8d10c9h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/8d2dAc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/8d2h7s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/8d2hQc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/8d4d7s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/8d4h10h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/8d5dKd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/8d8s4d8h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/8dAsQc2c8s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/8h3cJs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/8h3sKd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/8h4sAh8s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/8h7dQh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/8h8c9h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/8h8sKd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/8s10h8dAs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/8s2h5s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/8s7c4s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/8s7h5c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/8s8dQh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/8s9hAd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/8sJh5s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/9c3c8d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/9c5c9d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/9c5h9s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/9c9d3h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/9cQh3c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/9d5d5hKh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/9d6sJs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/9d6sQh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/9d8hQc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/9d9c5d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/9dJd9h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/9h10cJd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/9h2c2s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/9h9cAs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/9hJd2s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/9hKhAs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/9hKs6d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/9s3s8s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/9s6c4d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/9s6dQh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/9s7hQd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/9sJc3d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/9sKc2h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/9sKd5c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Ac10h6c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Ac3s6h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Ac4cJc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Ac4d8d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Ac5cKc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Ac7cAd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Ac9c2h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/AcKc10d6s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/AcQd8h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Ad10cJh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Ad3h10d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Ad3s10s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Ad5d5s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Ad5h8d8s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Ad8sJc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/AdAh4s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/AdJh7s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Ah10s5d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Ah3d2c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Ah8h10s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/AhAdQc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/As4h9d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/As5s5h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/As7d5d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/As8c6c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/As8hAd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/AsAd6h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/AsQc10h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Jc8c3s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Jc8hQc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/JcAs5c2c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/JcQh5s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Jd10dAc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Jd3cKh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Jd3s6d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Jd4s2h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/JdQd3c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/JdQhJc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Jh6c4h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Jh6h10s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Jh8d3d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Jh8s2c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/JhAc8d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/JhKd4d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/JhQdJc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/JhQdKd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Js10s8d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Js2d10h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Js3h2s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/JsAh10sQsKc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/JsKd9c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/JsQh10h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Kc10h2h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Kc2d8d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Kc2sKh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Kc5d3h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Kc9h4c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/KcJdKh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Kd10h2c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Kd2s6c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Kd4d10d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Kd5d4h6s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/KdAc7hKs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/KdAd7d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/KdAd9sQc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/KdAdAs10s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/KdAh3s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/KdQs3s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Kh10s2s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Kh10s8h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Kh2s2d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Kh3d2d10c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Kh5cAh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Kh7d9s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Kh8c7d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Kh8dJc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Kh9dJc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/KhAd8h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/KhAsAh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/KhJd5h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/KhQh5c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Ks10sJs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Ks2h4d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Ks4s2s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Ks5sAd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Ks6dAh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Ks6s9d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/KsQc3s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Qc3d5c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Qc5h2hQd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Qc5h5d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Qc9d6s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/QcKh4s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Qd3h10d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Qd6d4d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Qd8dKs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Qd9c7s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Qd9d9h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/QdAd4d7cQc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Qh2c6c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Qh4cAs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Qh7c6s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Qh8cKc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/QhJs3s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/QhKdJs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Qs10h2c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Qs10h9s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Qs5d10c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/Qs7cAh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/QsAs6c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/train_set/QsQd8c.png" afterDir="false" />
+    <list default="true" id="35b5b9e2-b769-4a5a-8e3d-9ebb0e6e4291" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/zelentsov/cards/Symbol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/zelentsov/cards/CardScannerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/10c3s2d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/10c3s9s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/10c6h5s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/10c8sQd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/10cAs5d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/10cJs9c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/10cKhKd7h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/10cKsQh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/10cQc7s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/10cQs2d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/10cQsKd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/10d2cKs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/10d5cJs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/10d5d4d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/10dAh10h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/10dJc8h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/10dJh7c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/10h10s7d5h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/10h2s5h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/10h4s4c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/10h6cQs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/10hKc3c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/10s2sJc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/10s6h10c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/10s6h8d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/10s6s3d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/10s7c7h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/10s7dKh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/10sAc10d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/10sAh7c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/10sQh6c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/2c10h3d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/2c3dAh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/2c7h3c10c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/2c9s9d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/2cKdJs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/2cQc5s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/2d2c6h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/2d2s4h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/2d3d10c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/2d8d4s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/2d8s6d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/2dKc8h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/2dKdJc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/2h10c8d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/2h3h4s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/2h4c3s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/2h8c7s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/2h8d9h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/2hAs4d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/2hQsKh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/2s3dAh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/2s6dKd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/2s8c9d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/2s9sQs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/2sAsKc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/2sKs2c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/2sQs10h10c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/3c6c8c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/3c6sKd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/3c7c2d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/3c7c6h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/3c7d5h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/3c7d9d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/3cJc9dAh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/3cJcKh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/3d10s9h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/3d4h5s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/3d4sKd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/3d7s2c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/3d9s2d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/3h10dJd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/3h5d10s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/3h5dKs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/3h6hAh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/3h7h3c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/3h8cAh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/3h9h5d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/3h9hKs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/3hQs4s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/3s3cJs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/3s4sJs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/3s7sKc8d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/3s8s3c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/3sQc3d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/4c2d7s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/4c2h7c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/4c3d6h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/4c5s10d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/4c9dJs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/4cAc10c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/4cJs6c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/4cJs8c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/4d5s4s9s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/4d6d5s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/4dJh10d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/4h7sAc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/4h9h6h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/4hAh3s7h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/4hAs2d2s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/4hJhQc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/4hKc3d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/4hKh4dAs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/4hKhAh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/4hQd7s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/4s2h2d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/4s4h7hKc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/4s7c9c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/4s7h3s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/4s9c7s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/4sJdKdKc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/5c2s2c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/5c4d3dQh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/5c7c5s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/5c8d4s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/5cJc9d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/5cKh2h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/5cQs2c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/5cQs6h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/5d2dAc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/5d2hQh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/5d4c3h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/5d4s7s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/5d5h3s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/5d7sKh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/5d9c7c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/5dKhAs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/5h2sJc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/5h3h6c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/5h4s7s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/5h5d7s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/5hQd8h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/5hQh7h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/5hQs8h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/5s10cQc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/5s2sKc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/5s4hJc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/5s6sQd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/5s7c2s10h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/5s8d7s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/5s8d9h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/5s9c4h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/5sJdQc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/5sKcKs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/5sQs8h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/6c7h9h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/6c9c5c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/6c9cAh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/6cAcJs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/6cAd4c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/6cAs5d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/6cKc2c8s8h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/6cQs10c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/6d10sJc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/6d2d10h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/6dJs4s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/6dKdAs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/6h10hAs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/6h4h9sQc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/6h6sQh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/6h8s10d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/6s3d10c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/6s5h10h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/6s5hQh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/6s5s2h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/6sJsKh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/7c10sQh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/7c5s2c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/7c6s3h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/7c8d6s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/7c9c8s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/7c9h7d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/7cAd2s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/7cJs9d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/7cKh8s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/7cKs6h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/7d5s4h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/7d6d8d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/7d7c7h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/7d7sKh7h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/7dAd3c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/7dJc6sAh5s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/7dQd9h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/7dQh2c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/7dQh5s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/7h10s6s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/7h3d5h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/7h4cAd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/7h4cQd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/7h6sJd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/7h8s10h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/7hAs5h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/7hQs5s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/7s10d6s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/7s6hKs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/7s7h4s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/7s8c6c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/7sJh7c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/7sJs2h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/7sQs9s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/8c6sKh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/8c9d3h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/8c9s6s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/8cAdJd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/8d10c9h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/8d2dAc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/8d2h7s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/8d2hQc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/8d4d7s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/8d4h10h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/8d5dKd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/8d8s4d8h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/8dAsQc2c8s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/8h3cJs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/8h3sKd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/8h4sAh8s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/8h7dQh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/8h8c9h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/8h8sKd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/8s10h8dAs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/8s2h5s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/8s7c4s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/8s7h5c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/8s8dQh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/8s9hAd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/8sJh5s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/9c3c8d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/9c5c9d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/9c5h9s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/9c9d3h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/9cQh3c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/9d5d5hKh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/9d6sJs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/9d6sQh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/9d8hQc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/9d9c5d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/9dJd9h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/9h10cJd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/9h2c2s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/9h9cAs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/9hJd2s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/9hKhAs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/9hKs6d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/9s3s8s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/9s6c4d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/9s6dQh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/9s7hQd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/9sJc3d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/9sKc2h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/9sKd5c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Ac10h6c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Ac3s6h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Ac4cJc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Ac4d8d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Ac5cKc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Ac7cAd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Ac9c2h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/AcKc10d6s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/AcQd8h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Ad10cJh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Ad3h10d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Ad3s10s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Ad5d5s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Ad5h8d8s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Ad8sJc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/AdAh4s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/AdJh7s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Ah10s5d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Ah3d2c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Ah8h10s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/AhAdQc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/As4h9d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/As5s5h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/As7d5d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/As8c6c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/As8hAd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/AsAd6h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/AsQc10h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Jc8c3s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Jc8hQc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/JcAs5c2c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/JcQh5s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Jd10dAc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Jd3cKh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Jd3s6d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Jd4s2h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/JdQd3c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/JdQhJc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Jh6c4h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Jh6h10s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Jh8d3d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Jh8s2c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/JhAc8d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/JhKd4d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/JhQdJc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/JhQdKd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Js10s8d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Js2d10h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Js3h2s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/JsAh10sQsKc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/JsKd9c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/JsQh10h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Kc10h2h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Kc2d8d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Kc2sKh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Kc5d3h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Kc9h4c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/KcJdKh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Kd10h2c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Kd2s6c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Kd4d10d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Kd5d4h6s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/KdAc7hKs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/KdAd7d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/KdAd9sQc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/KdAdAs10s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/KdAh3s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/KdQs3s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Kh10s2s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Kh10s8h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Kh2s2d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Kh3d2d10c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Kh5cAh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Kh7d9s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Kh8c7d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Kh8dJc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Kh9dJc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/KhAd8h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/KhAsAh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/KhJd5h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/KhQh5c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Ks10sJs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Ks2h4d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Ks4s2s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Ks5sAd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Ks6dAh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Ks6s9d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/KsQc3s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Qc3d5c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Qc5h2hQd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Qc5h5d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Qc9d6s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/QcKh4s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Qd3h10d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Qd6d4d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Qd8dKs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Qd9c7s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Qd9d9h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/QdAd4d7cQc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Qh2c6c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Qh4cAs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Qh7c6s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Qh8cKc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/QhJs3s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/QhKdJs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Qs10h2c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Qs10h9s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Qs5d10c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/Qs7cAh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/QsAs6c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/examples/QsQd8c.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CardScanner/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/zelentsov/CardScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zelentsov/cards/CardScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/zelentsov/CardsApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zelentsov/cards/CardsApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -386,6 +385,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -407,12 +407,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "jdk.selected.JAVA_MODULE": "openjdk-18",
-    "last_opened_file_path": "/home/ubik33/IdeaProjects/Cards/src/main/resources/train_set",
+    "last_directory_selection": "/home/ubik33/IdeaProjects/Cards/src/main/java/ru/zelentsov",
+    "last_opened_file_path": "/home/ubik33/IdeaProjects/Cards/src/test/resources/examples",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.6897507"
@@ -420,14 +424,26 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/examples" />
+      <recent name="$PROJECT_DIR$/src/main/resources/train_set" />
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/Symbols_2" />
       <recent name="$PROJECT_DIR$/symbols" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ru.zelentsov.cards" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.zelentsov.cards" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.CardsApp">
+  <component name="RunManager" selected="Application.ru.zelentsov.cards.CardsApp">
     <configuration name="CardsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.zelentsov.CardsApp" />
       <module name="Cards" />
@@ -448,8 +464,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ru.zelentsov.cards.CardsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.zelentsov.cards.CardsApp" />
+      <module name="Cards" />
+      <option name="PROGRAM_PARAMETERS" value="$USER_HOME$/Загрузки/Telegram Desktop/imgs_marked/imgs_marked" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.zelentsov.cards.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CardScannerTest.testOnAllCards" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Cards" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.zelentsov.cards.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.zelentsov.cards" />
+      <option name="MAIN_CLASS_NAME" value="ru.zelentsov.cards.CardScannerTest" />
+      <option name="METHOD_NAME" value="testOnAllCards" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ru.zelentsov.cards.CardsApp" />
+        <item itemvalue="JUnit.CardScannerTest.testOnAllCards" />
         <item itemvalue="Application.CardsApp" />
         <item itemvalue="Application.ru.zelentsov.CardScanner" />
       </list>
@@ -465,8 +513,16 @@
       <updated>1658313048932</updated>
       <workItem from="1658313050971" duration="15933000" />
       <workItem from="1658333205294" duration="509000" />
-      <workItem from="1658393766281" duration="740000" />
+      <workItem from="1658393766281" duration="4225000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1658394652327</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658394652328</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -483,26 +539,22 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ru/zelentsov/CardScanner.java</url>
-          <line>131</line>
-          <option name="timeStamp" value="11" />
+          <url>file://$PROJECT_DIR$/src/main/java/ru/zelentsov/cards/CardsApp.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ru/zelentsov/CardScanner.java</url>
-          <line>76</line>
-          <properties>
-            <option name="lambda-ordinal" value="-1" />
-          </properties>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ru/zelentsov/CardsApp.java</url>
-          <line>43</line>
-          <option name="timeStamp" value="14" />
+          <url>file://$PROJECT_DIR$/src/main/java/ru/zelentsov/cards/CardsApp.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
