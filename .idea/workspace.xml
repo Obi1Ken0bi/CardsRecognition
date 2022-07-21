@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35b5b9e2-b769-4a5a-8e3d-9ebb0e6e4291" name="Changes" comment="pom fix">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/zelentsov/cards/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/ready_model.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/zelentsov/cards/CardScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zelentsov/cards/CardScanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/zelentsov/cards/CardsApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zelentsov/cards/CardsApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/zelentsov/cards/Symbol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zelentsov/cards/Symbol.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/ready_model.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ready_model.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/zelentsov/cards/CardScannerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/zelentsov/cards/CardScannerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dependency-reduced-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dependency-reduced-pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +60,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.6897507",
     "settings.editor.selected.configurable": "MavenSettings"
@@ -95,7 +88,7 @@
       <recent name="ru.zelentsov.cards" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ru.zelentsov.cards.CardsApp">
+  <component name="RunManager" selected="JAR Application.CardsApp-1.0-SNAPSHOT.jar">
     <configuration name="CardsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.zelentsov.CardsApp" />
       <module name="Cards" />
@@ -169,8 +162,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ru.zelentsov.cards.CardsApp" />
         <item itemvalue="JAR Application.CardsApp-1.0-SNAPSHOT.jar" />
+        <item itemvalue="Application.ru.zelentsov.cards.CardsApp" />
         <item itemvalue="JUnit.CardScannerTest.testOnAllCards" />
         <item itemvalue="JUnit.CardScannerTest" />
         <item itemvalue="Application.CardsApp" />
@@ -188,7 +181,7 @@
       <workItem from="1658313050971" duration="15933000" />
       <workItem from="1658333205294" duration="509000" />
       <workItem from="1658393766281" duration="4800000" />
-      <workItem from="1658398609635" duration="4096000" />
+      <workItem from="1658398609635" duration="5292000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1658394652327</created>
@@ -218,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658398911240</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="pom fix">
+      <created>1658402994309</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658402994309</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
