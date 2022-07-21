@@ -6,12 +6,11 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 class Symbol {
-    private Boolean[][] possiblePixels;
+    private Boolean[][] pixels;
     private String value;
 
-
-    public Symbol(Boolean[][] possiblePixels) {
-        this.possiblePixels = possiblePixels;
+    public Symbol(Boolean[][] pixels) {
+        this.pixels = pixels;
     }
 
 }
