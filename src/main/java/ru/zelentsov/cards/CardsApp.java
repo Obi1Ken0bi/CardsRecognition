@@ -38,8 +38,10 @@ public class CardsApp {
             symbols = objectMapper.readValue(CardsApp.class.getClassLoader().getResourceAsStream("ready_model.json"), new TypeReference<>() {
             });
             for (File file : files) {
-                String result = getAllCards(file.getPath());
                 String fileName = file.getName();
+                if (!fileName.endsWith(".png"))
+                    continue;
+                String result = getAllCards(file.getPath());
                 System.out.println(fileName + " - " + result);
             }
         } else throw new RuntimeException("No files in folder.");
